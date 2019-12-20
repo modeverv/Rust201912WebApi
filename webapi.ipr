@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/webapi.iml" filepath="$PROJECT_DIR$/webapi.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server" vcs="Git" />
+  </component>
+</project>
